@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PassGen</string>
+    <string name="length_of_password">Length of Password</string>
+</resources>
